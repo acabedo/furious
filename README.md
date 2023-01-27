@@ -1,5 +1,3 @@
-# furious
-
 
 <img src="images/logofurious.png" alt="drawing" width="160"/> 
 
