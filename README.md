@@ -5,7 +5,7 @@
 
 Oralstats modification for *Proyecto ESPRINT. Estrategias pragmático-retóricas en la interacción conversacional conflictiva entre íntimos y conocidos: intensificación, atenuación y gestión interaccional*. Ministerio de Ciencia e Innovación (PID2020-114805GB-100). Directoras: Marta Albelda / Maria Estellés 
 
-Developed with the aid of Chat-GPT (4.0)
+Tutorial developed with the aid of Chat-GPT (4.0)
 
 # Introduction
 
